@@ -1,16 +1,19 @@
 # Linear Regression on California Housing Dataset
 
+**Name:** Thomas Sunil  
+**Intern ID:** CT6WDS1263  
+**Company:** CODTECH IT SOLUTIONS PVT. LTD.  
+**Domain:** Data Science  
+**Duration:** 6 Weeks (July 10th, 2024 - August 25th, 2024)  
+**Mentor:** Muzammil Ahmed
+
 ## Project Overview
 
-This project demonstrates the application of linear regression using the California Housing dataset. The goal is to predict the median house prices in various districts of California based on multiple features such as average income, house age, and more.
+This project demonstrates the application of linear regression using the California Housing dataset. The objective is to predict the median house prices in various districts of California based on features such as median income, house age, average number of rooms, and more.
 
 ## Dataset
 
-The California Housing dataset is used in this project, which is derived from the 1990 U.S. Census. The dataset includes data about housing in California, such as the average income of residents in a block, the median house value, the average number of rooms, etc.
-
-### Features
-
-The dataset contains the following features:
+The California Housing dataset, derived from the 1990 U.S. Census, includes the following features:
 
 - `MedInc`: Median income in block group.
 - `HouseAge`: Median house age in block group.
